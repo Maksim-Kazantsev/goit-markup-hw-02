@@ -74,4 +74,15 @@ color: var(--address-text-color);
 .footer .link:focus{
 color:  #2196F3;
 }
-
+/* Portfolio */
+.buttons{
+color: var(--title-text-color);
+}
+.buttons:hover,
+.buttons:focus{
+background-color: var(--accent-color);
+color: #FFFFFF;
+}
+.presentation .title{
+color: var(--title-text-color);
+}
