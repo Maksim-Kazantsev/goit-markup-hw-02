@@ -142,16 +142,42 @@ ul{
     background-color: #F5F4FA;
 }
 .team-names{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.19;
-text-align: center;
-color: var(--title-text-color);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    color: var(--title-text-color);
 }
 .profession{
-font-size: 16px;
-line-height: 1.19;
-text-align: center;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
 }
 /*========== PORTFOLIO ==========*/
+.buttons{   
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.63;
+    text-align: center;
+    color: var(--title-text-color);
+}
+.buttons:focus,
+.buttons:hover{
+    color: #ffffff;
+    background-color: var(--accent-color);
+}
+.portfolio-subheading{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: var(--title-text-color);
 
+}
+.portfolio-title{
+    font-size: 16px;
+    line-height: 1.9;
+}
+.portfolio-link{
+    text-decoration: none; 
+}
