@@ -117,6 +117,10 @@ ul{
     cursor: pointer;
     background-color: var(--accent-color);
 }
+.button:focus,
+.button:hover{
+    background-color: #188CE8;
+}
 
 /*========== SECTION ==========*/
 /*========== WORK==========*/
