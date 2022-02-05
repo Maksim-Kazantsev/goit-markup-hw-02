@@ -114,8 +114,10 @@ ul{
     text-align: center;
     letter-spacing: 0.06em;
     color: #FFFFFF;
+    cursor: pointer;
     background-color: var(--accent-color);
 }
+
 /*========== SECTION ==========*/
 /*========== WORK==========*/
 .heading{
@@ -159,6 +161,7 @@ ul{
     font-size: 16px;
     line-height: 1.63;
     text-align: center;
+    cursor: pointer;
     color: var(--title-text-color);
 }
 .buttons:focus,
